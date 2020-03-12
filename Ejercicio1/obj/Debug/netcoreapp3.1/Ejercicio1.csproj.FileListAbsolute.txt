@@ -14,3 +14,14 @@ C:\Users\nicoc\Downloads\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyI
 C:\Users\nicoc\Downloads\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfo.cs
 C:\Users\nicoc\Downloads\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.dll
 C:\Users\nicoc\Downloads\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.pdb
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.exe
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.deps.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.runtimeconfig.dev.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.dll
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\Ejercicio1\bin\Debug\netcoreapp3.1\Ejercicio1.pdb
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.AssemblyInfo.cs
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.dll
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\Ejercicio1\obj\Debug\netcoreapp3.1\Ejercicio1.pdb

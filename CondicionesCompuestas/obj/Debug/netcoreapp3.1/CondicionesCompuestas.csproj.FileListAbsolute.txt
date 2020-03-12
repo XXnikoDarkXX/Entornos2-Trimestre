@@ -1,0 +1,11 @@
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\CondicionesCompuestas\bin\Debug\netcoreapp3.1\CondicionesCompuestas.exe
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\CondicionesCompuestas\bin\Debug\netcoreapp3.1\CondicionesCompuestas.deps.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\CondicionesCompuestas\bin\Debug\netcoreapp3.1\CondicionesCompuestas.runtimeconfig.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\CondicionesCompuestas\bin\Debug\netcoreapp3.1\CondicionesCompuestas.runtimeconfig.dev.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\CondicionesCompuestas\bin\Debug\netcoreapp3.1\CondicionesCompuestas.dll
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\CondicionesCompuestas\bin\Debug\netcoreapp3.1\CondicionesCompuestas.pdb
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\CondicionesCompuestas\obj\Debug\netcoreapp3.1\CondicionesCompuestas.csprojAssemblyReference.cache
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\CondicionesCompuestas\obj\Debug\netcoreapp3.1\CondicionesCompuestas.AssemblyInfoInputs.cache
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\CondicionesCompuestas\obj\Debug\netcoreapp3.1\CondicionesCompuestas.AssemblyInfo.cs
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\CondicionesCompuestas\obj\Debug\netcoreapp3.1\CondicionesCompuestas.dll
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\CondicionesCompuestas\obj\Debug\netcoreapp3.1\CondicionesCompuestas.pdb
