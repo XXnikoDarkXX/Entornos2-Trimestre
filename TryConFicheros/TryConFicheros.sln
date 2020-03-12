@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryConFicheros", "TryConFicheros.csproj", "{789122C2-AF63-4FFB-8AB7-966427FB26CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{789122C2-AF63-4FFB-8AB7-966427FB26CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789122C2-AF63-4FFB-8AB7-966427FB26CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789122C2-AF63-4FFB-8AB7-966427FB26CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789122C2-AF63-4FFB-8AB7-966427FB26CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {780C5E4E-802C-4418-8082-3C5C4203FF78}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\TryConFicheros\bin\Debug\netcoreapp3.1\TryConFicheros.exe
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\TryConFicheros\bin\Debug\netcoreapp3.1\TryConFicheros.deps.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\TryConFicheros\bin\Debug\netcoreapp3.1\TryConFicheros.runtimeconfig.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\TryConFicheros\bin\Debug\netcoreapp3.1\TryConFicheros.runtimeconfig.dev.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\TryConFicheros\bin\Debug\netcoreapp3.1\TryConFicheros.dll
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\TryConFicheros\bin\Debug\netcoreapp3.1\TryConFicheros.pdb
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\TryConFicheros\obj\Debug\netcoreapp3.1\TryConFicheros.csprojAssemblyReference.cache
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\TryConFicheros\obj\Debug\netcoreapp3.1\TryConFicheros.AssemblyInfoInputs.cache
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\TryConFicheros\obj\Debug\netcoreapp3.1\TryConFicheros.AssemblyInfo.cs
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\TryConFicheros\obj\Debug\netcoreapp3.1\TryConFicheros.dll
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\TryConFicheros\obj\Debug\netcoreapp3.1\TryConFicheros.pdb
