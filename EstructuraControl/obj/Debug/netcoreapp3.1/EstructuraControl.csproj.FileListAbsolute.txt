@@ -1,0 +1,11 @@
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\EstructuraControl\bin\Debug\netcoreapp3.1\EstructuraControl.exe
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\EstructuraControl\bin\Debug\netcoreapp3.1\EstructuraControl.deps.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\EstructuraControl\bin\Debug\netcoreapp3.1\EstructuraControl.runtimeconfig.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\EstructuraControl\bin\Debug\netcoreapp3.1\EstructuraControl.runtimeconfig.dev.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\EstructuraControl\bin\Debug\netcoreapp3.1\EstructuraControl.dll
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\EstructuraControl\bin\Debug\netcoreapp3.1\EstructuraControl.pdb
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\EstructuraControl\obj\Debug\netcoreapp3.1\EstructuraControl.csprojAssemblyReference.cache
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\EstructuraControl\obj\Debug\netcoreapp3.1\EstructuraControl.AssemblyInfoInputs.cache
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\EstructuraControl\obj\Debug\netcoreapp3.1\EstructuraControl.AssemblyInfo.cs
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\EstructuraControl\obj\Debug\netcoreapp3.1\EstructuraControl.dll
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\EstructuraControl\obj\Debug\netcoreapp3.1\EstructuraControl.pdb
