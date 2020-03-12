@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicoc\\Downloads\\Ejercicio1\\Ejercicio1.csproj",
+      "projectUniqueName": "C:\\Users\\nicoc\\Documents\\GitHub\\Entornos2-Trimestre\\Ejercicio1\\Ejercicio1.csproj",
       "projectName": "Ejercicio1",
-      "projectPath": "C:\\Users\\nicoc\\Downloads\\Ejercicio1\\Ejercicio1.csproj",
+      "projectPath": "C:\\Users\\nicoc\\Documents\\GitHub\\Entornos2-Trimestre\\Ejercicio1\\Ejercicio1.csproj",
       "packagesPath": "C:\\Users\\nicoc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicoc\\Downloads\\Ejercicio1\\obj\\",
+      "outputPath": "C:\\Users\\nicoc\\Documents\\GitHub\\Entornos2-Trimestre\\Ejercicio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
