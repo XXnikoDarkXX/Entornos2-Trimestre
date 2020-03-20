@@ -1,4 +1,11 @@
 ﻿using System;
+ /**************************
+  *Autor: Nicolás Fernández Heredia
+  *Curso: 1DAW-M
+  * Asignación: Condiciones Compuestas
+  * Fecha de asignacion: 5 de febrero del 2020
+  * ************************
+  */
 
 namespace CondicionesCompuestas
 {
@@ -6,12 +13,17 @@ namespace CondicionesCompuestas
     {
         static void Main(string[] args)
         {
+
+           
+            //Variable que se usa para leer por teclado el mes
               String linea;
             String mes;
             Console.Write("Ingrese las 3 primeras letras del mes");
+            Console.WriteLine("");
             linea = Console.ReadLine();
-            mes = lineas
-           mes= mes.ToLower();
+            mes = linea;
+           mes= mes.ToLower();//Mediante el uso de varios if y los || hemos hecho que si el usuario escribe
+            //las tres primeras letras de un mes te digan y te digan el mes
             if (mes == "oct" || mes == "nov" || mes == "dic"||mes == "ene" || mes == "feb" 
                 || mes == "mar"||mes == "abr" || mes == "may" || mes == "jun")
             {

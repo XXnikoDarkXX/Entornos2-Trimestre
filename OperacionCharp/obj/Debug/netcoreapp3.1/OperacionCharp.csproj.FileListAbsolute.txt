@@ -1,0 +1,11 @@
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\OperacionCharp\obj\Debug\netcoreapp3.1\OperacionCharp.csprojAssemblyReference.cache
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\OperacionCharp\obj\Debug\netcoreapp3.1\OperacionCharp.AssemblyInfoInputs.cache
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\OperacionCharp\obj\Debug\netcoreapp3.1\OperacionCharp.AssemblyInfo.cs
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\OperacionCharp\bin\Debug\netcoreapp3.1\OperacionCharp.exe
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\OperacionCharp\bin\Debug\netcoreapp3.1\OperacionCharp.deps.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\OperacionCharp\bin\Debug\netcoreapp3.1\OperacionCharp.runtimeconfig.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\OperacionCharp\bin\Debug\netcoreapp3.1\OperacionCharp.runtimeconfig.dev.json
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\OperacionCharp\bin\Debug\netcoreapp3.1\OperacionCharp.dll
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\OperacionCharp\bin\Debug\netcoreapp3.1\OperacionCharp.pdb
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\OperacionCharp\obj\Debug\netcoreapp3.1\OperacionCharp.dll
+C:\Users\nicoc\Documents\GitHub\Entornos2-Trimestre\OperacionCharp\obj\Debug\netcoreapp3.1\OperacionCharp.pdb
